@@ -1,0 +1,14 @@
+{
+  "bathrooms": [
+     {
+        "id":123,
+        "name": "Bobby D",
+        "status": "Clear"
+     },
+    {
+        "id":456,
+        "name": "Bobby D",
+        "status": "Clear"
+     }
+  ]
+}
