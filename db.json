@@ -1,32 +1,22 @@
 {
-  "bathrooms": [
+  "students": [
      {
-        "title": "Bathroom Timer",
-        "instructions": "Select your student and click start to begin the timer",
-        "scholar": "Bob Pablo",
-        "trips": 0,
+        "id":111,
+        "scholar": "Ernesto",
+        "trips": 1,
         "status": "Clear",
-        "t": 0,
-        "int": 0, 
-        "minutes": 0,
-        "seconds": 00,
-        "id":123,
-        "name": "Bobby D",
-        "status": "Clear"
      },
     {
-        "title": "Bathroom Timer",
-        "instructions": "Select your student and click start to begin the timer",
+        "id":456,
         "scholar": "Bob Pablo",
         "trips": 0,
         "status": "Clear",
-        "t": 0,
-        "int": 0, 
-        "minutes": 0,
-        "seconds": 00,
-        "id":456,
-        "name": "Bobby D",
-        "status": "Clear"
+     },
+    {
+        "id":789,
+        "scholar": "Sam",
+        "trips": 2,
+        "status": "Clear",
      }
   ]
 }
